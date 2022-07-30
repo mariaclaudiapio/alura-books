@@ -27,7 +27,7 @@ Site desenvolvido, usando basicamente HTML e CSS, durante o curso "**HTML e CSS:
 
 <h2 align="center">🛠️ Como rodar o projeto</h2> 
 
-* Baixe a pasta "alura-books";
+* Baixe todos os arquivos e pastas, com exceção dos "README.md" e "banner_alura_books.gif";
 
 * Clique no arquivo "index.html". Assim, o site abrirá no seu navegador.
 
